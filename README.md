@@ -128,6 +128,12 @@ Item ID: 104 | Score: 3.5
 
 ---
 
+## Output
+
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/c068d530-deba-4ad3-a331-d6bc78af4a12" />
+
+---
+
 ## 🧠 Key Concepts Used
 
 - Collaborative Filtering
